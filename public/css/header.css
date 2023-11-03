@@ -7,8 +7,7 @@ header section{
     display: flex;
     justify-content: space-between;
 }
-
-header section a{
+.header__section--button-nav{
     border: 1px solid #ffffff;
     padding: 5px;
     border-radius: 4px;

@@ -1,6 +1,6 @@
 :root{
     --colorRojo: #ff4500;
-    --colorGris: #6b6b6b;
+    --colorGris: #6b6868;
     --colorBlanco: #ffffff;
 }
 
@@ -32,4 +32,21 @@ body {
     width: 100%;
     justify-content: flex-end;
     gap: 10px;
+}
+
+.box__card{
+    max-width: 400px;
+    width: 90%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px #c0c0c0;
+    border-radius: 5px;
+}
+.box__card--tittle{
+    margin-bottom: 30px;
+    text-align: end;
+}
+.link{
+    color: var(--colorRojo);
 }

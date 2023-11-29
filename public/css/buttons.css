@@ -8,7 +8,7 @@
     color: var(--colorBlanco);
 }
 
-.button__secondary {
+.button__secondary{
     background-color: var(--colorGris);
     color: var(--colorBlanco);
 }
